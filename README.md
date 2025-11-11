@@ -217,7 +217,7 @@ Revenue trends show the challenges facing traditional retail gaming
 
 Clone the repository:
 
-bashgit clone https://github.com/your-username/Stock-Analysis-Project.git
+bashgit clone https://https://github.com/abdusleem/IBM-Python-Project-Stock-Analysis
 
 Open in Google Colab or Jupyter Notebook
 Install required libraries:
